@@ -1,5 +1,5 @@
 # Querying-NFT-Owner-with-vottun-APIS
-Sample of using vottun APIs in javascript.
+Sample of using vottun APIs in HTML/javascript.
 This sample implements an asynchronous call to Vottun APIS using fecht(), passing the params in the body.
 Then, verify the response to verify expected data.
 ![image](https://github.com/jzafrap/Querying-NFT-Owner-with-vottun-APIS/assets/36307819/bcd2f292-d19b-4488-852e-f8eaba97142c)
